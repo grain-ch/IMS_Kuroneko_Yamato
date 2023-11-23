@@ -1,0 +1,7 @@
+<C001_Net_alpha_skinned.mfm>
+	<fx>	shaders/std_effects/grid_alpha_skinned.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<property>	diffuseMap
+		<Texture>	PnFMods/Kuroneko_Yamato/JSB018_Yamato_1944/radar/C001_Net_alpha_a.dds	</Texture>
+	</property>
+</C001_Net_alpha_skinned.mfm>

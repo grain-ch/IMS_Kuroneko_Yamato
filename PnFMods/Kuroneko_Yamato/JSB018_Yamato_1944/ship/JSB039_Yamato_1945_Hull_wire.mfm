@@ -1,0 +1,10 @@
+<JSB039_Yamato_1945_Hull_wire.mfm>
+	<fx>	shaders/materials/pbs/wire_material.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<property>	diffuseMap
+		<Texture>	PnFMods/Kuroneko_Yamato/JSB018_Yamato_1944/ship/JSB039_Yamato_1945_Hull_a.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/Kuroneko_Yamato/JSB018_Yamato_1944/ship/JSB039_Yamato_1945_Hull_mg.dds	</Texture>
+	</property>
+</JSB039_Yamato_1945_Hull_wire.mfm>

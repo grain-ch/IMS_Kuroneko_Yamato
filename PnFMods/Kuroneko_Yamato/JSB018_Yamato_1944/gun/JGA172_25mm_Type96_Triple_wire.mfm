@@ -1,0 +1,10 @@
+<JGA172_25mm_Type96_Triple_wire.mfm>
+	<fx>	shaders/std_effects/PBS_wire.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<property>	diffuseMap
+		<Texture>	PnFMods/Kuroneko_Yamato/JSB018_Yamato_1944/gun/JGA172_25mm_Type96_Triple_a.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/Kuroneko_Yamato/JSB018_Yamato_1944/gun/JGA172_25mm_Type96_Triple_mg.dds	</Texture>
+	</property>
+</JGA172_25mm_Type96_Triple_wire.mfm>
