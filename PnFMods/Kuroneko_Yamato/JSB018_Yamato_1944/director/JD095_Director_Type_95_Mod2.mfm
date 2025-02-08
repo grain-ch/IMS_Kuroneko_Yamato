@@ -1,5 +1,5 @@
 <JD095_Director_Type_95_Mod2.mfm>
-	<fx>	shaders/std_effects/PBS_ship.fx	</fx>
+	<fx>	shaders/materials/pbs/ship_material.fx	</fx>
 	<collisionFlags>	0	</collisionFlags>
 	<property>	ambientOcclusionMap
 		<Texture>	PnFMods/Kuroneko_Yamato/JSB018_Yamato_1944/director/default_ao.dds	</Texture>

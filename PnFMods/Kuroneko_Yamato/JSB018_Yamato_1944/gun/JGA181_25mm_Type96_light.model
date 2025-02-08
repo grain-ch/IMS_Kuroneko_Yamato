@@ -1,7 +1,6 @@
 <JGA181_25mm_Type96_light.model>
-	<castsShadow>	false	</castsShadow>
-	<parent>	PnFMods/Kuroneko_Yamato/JSB018_Yamato_1944/gun/lods/JGA181_25mm_Type96_light_lod1	</parent>
-	<extent>	4.0000	</extent>
-	<nodefullVisual>	PnFMods/Kuroneko_Yamato/JSB018_Yamato_1944/gun/JGA181_25mm_Type96_light	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<visual>	PnFMods/Kuroneko_Yamato/JSB018_Yamato_1944/gun/JGA181_25mm_Type96_light.visual	</visual>
+	<animations />
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </JGA181_25mm_Type96_light.model>

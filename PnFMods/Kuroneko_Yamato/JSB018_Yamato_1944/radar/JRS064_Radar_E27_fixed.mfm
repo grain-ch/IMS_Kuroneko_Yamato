@@ -1,5 +1,5 @@
 <JRS064_Radar_E27_fixed.mfm>
-	<fx>	shaders/std_effects/PBS_ship.fx	</fx>
+	<fx>	shaders/materials/pbs/ship_material.fx	</fx>
 	<collisionFlags>	0	</collisionFlags>
 	<property>	ambientOcclusionMap
 		<Texture>	PnFMods/Kuroneko_Yamato/JSB018_Yamato_1944/radar/default_ao.dds	</Texture>

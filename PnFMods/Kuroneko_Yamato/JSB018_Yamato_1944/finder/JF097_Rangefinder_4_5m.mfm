@@ -29,9 +29,9 @@
 		<Float>	0.4000	</Float>
 	</property>
 	<property>	g_detailScaleU
-		<Float>	2.0000	</Float>
+		<Float>	4.0000	</Float>
 	</property>
 	<property>	g_detailScaleV
-		<Float>	2.0000	</Float>
+		<Float>	4.0000	</Float>
 	</property>
 </JF097_Rangefinder_4_5m.mfm>

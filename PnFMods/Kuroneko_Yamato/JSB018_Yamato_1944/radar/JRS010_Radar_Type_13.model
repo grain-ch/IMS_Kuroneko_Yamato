@@ -1,7 +1,8 @@
 <JRS010_Radar_Type_13.model>
-	<castsShadow>	false	</castsShadow>
-	<parent>	PnFMods/Kuroneko_Yamato/JSB018_Yamato_1944/radar/lods/JRS010_Radar_Type_13_lod1	</parent>
-	<extent>	2.0000	</extent>
-	<nodefullVisual>	PnFMods/Kuroneko_Yamato/JSB018_Yamato_1944/radar/JRS010_Radar_Type_13	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<visual>	PnFMods/Kuroneko_Yamato/JSB018_Yamato_1944/radar/JRS010_Radar_Type_13.visual	</visual>
+	<animations>
+		<animation>	content/animation_state_machines/legacy/gameplay/JRS010_Radar_Type_13/JRS010_Radar_Type_13.ssm	</animation>
+	</animations>
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </JRS010_Radar_Type_13.model>
